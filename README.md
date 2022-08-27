@@ -1,2 +1,2 @@
-# wiliki.GitHub.io
+# Wiliki.GitHub.io
 Hello, world!
